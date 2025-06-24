@@ -24,3 +24,14 @@
 <img src="https://raw.githubusercontent.com/mcecep456/mcecep456/output/snake.svg" alt="Snake animation" />
 
 ###
+
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mcecep456/mcecep456/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mcecep456/mcecep456/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/mcecep456/mcecep456/output/pacman-contribution-graph.svg">
+</picture>
+
+###
