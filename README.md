@@ -1,8 +1,10 @@
 <h2 align="left">Hi  Cuy👋!  I'm a Cecep Maulana</h2>
+<div align="center">
 
 ![Cecep maulana](img/github-header-image.png)
 
-###
+</div>
+
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mcecep456&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="200"  width="200" alt="stats graph"  />
