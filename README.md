@@ -60,7 +60,7 @@ Berbekal pengalaman komprehensif dalam pengembangan web , saya seorang insinyur 
     <span><img src="https://skillicons.dev/icons?i=figma"  alt="Figma" title="Figma" /></span>
     <span><img src="https://skillicons.dev/icons?i=linux"  alt="Linux" title="Linux" /></span>
     <span><img src="https://skillicons.dev/icons?i=bash"  alt="Bash" title="Bash" /></span>
-    <span><img src="https://skillicons.dev/icons?i=powershell"  alt="Powershell" title="Powershell" /></span>
+    <span><img src="https://skillicons.dev/icons?i=powershell"  alt="Powershell" title="Powershell" /><span>
     <span><img src="https://skillicons.dev/icons?i=md"  alt="Markdown" title="Markdown" /></span>
     <span><img src="https://skillicons.dev/icons?i=notion"  alt="Notion" title="Notion" /></span>
     <span><img src="https://skillicons.dev/icons?i=postman"  alt="Postman" title="Postman" /></span>
@@ -75,8 +75,8 @@ Berbekal pengalaman komprehensif dalam pengembangan web , saya seorang insinyur 
         <img src="https://streak-stats.demolab.com?user=mcecep456&hide_border=true&border_radius=0&mode=weekly&background=04011e00&currStreakNum=14E3EB&sideNums=EB941F&currStreakLabel=14E3EB&sideLabels=14E3EB&dates=F1F4F4" height="250" alt="streak graph" />
     </div>
     <div align="center" bgcolor="#04011e"  >
-        <img src="https://github-readme-stats.vercel.app/api?username=mcecep456&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&locale=en&border_color=04011e&order=1&hide_border=true&bg_color=ffffff00&text_color=f1f4f4&icon_color=14E3EB" width="49%" height="150" alt="stats graph" />
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mcecep456&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=algolia&hide_border=true&order=2&disable_animations=false&bg_color=00000000&title_color=14E3EB&text_color=f1f4f4" width="49%" height="150" alt="languages graph" />
+        <img src="https://github-readme-stats.vercel.app/api?username=mcecep456&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&locale=en&border_color=04011e&order=1&hide_border=true&bg_color=#0a0a0a&text_color=f1f4f4&icon_color=14E3EB" width="49%" height="150" alt="stats graph" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mcecep456&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=algolia&hide_border=true&order=2&disable_animations=false&bg_color=#0a0a0a&title_color=14E3EB&text_color=f1f4f4" width="49%" height="150" alt="languages graph" />
     </div>
     <!-- <div align="center">
         <img src="https://github-profile-trophy.vercel.app?username=mcecep456&theme=matrix&column=-1&row=1&margin-w=5&margin-h=0&no-bg=true&no-frame=true&order=4&bg_color=04011e" alt="trophy graph" />
