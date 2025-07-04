@@ -72,7 +72,7 @@ Berbekal pengalaman komprehensif dalam pengembangan web , saya seorang insinyur 
 
 <div align="left"">
     <div align="center" style="color:#f1f4f4;">
-        <img src="https://streak-stats.demolab.com?user=mcecep456&hide_border=true&border_radius=0&mode=weekly&background=04011e00&currStreakNum=14E3EB&sideNums=EB941F&currStreakLabel=14E3EB&sideLabels=14E3EB&dates=F1F4F4" height="250" alt="streak graph" />
+        <img src="https://streak-stats.demolab.com?user=mcecep456&hide_border=true&border_radius=0&mode=weekly&background=04011e00&currStreakNum=14E3EB&sideNums=EB941F&currStreakLabel=14E3EB&sideLabels=14E3EB&dates=#0a0a0a" height="250" alt="streak graph" />
     </div>
     <div align="center" bgcolor="#04011e"  >
         <img src="https://github-readme-stats.vercel.app/api?username=mcecep456&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&locale=en&border_color=04011e&order=1&hide_border=true&bg_color=#0a0a0a&text_color=f1f4f4&icon_color=14E3EB" width="49%" height="150" alt="stats graph" />
