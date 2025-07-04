@@ -52,13 +52,12 @@ Berbekal pengalaman komprehensif dalam pengembangan web , saya seorang insinyur 
     <span><img src="https://skillicons.dev/icons?i=nginx"  alt="Nginx" title="Nginx" /></span>
     <span><img src="https://skillicons.dev/icons?i=nodejs"  alt="NodeJS" title="NodeJS" /></span>
     <span><img src="https://skillicons.dev/icons?i=bun"  alt="Bun" title="Bun" /></span>
-    <span><img src="https://skillicons.dev/icons?i=yarn"  alt="Yarn" title="Yarn" /></span>
+    <span><img src="https://skillicons.dev/icons?i=npm"  alt="npm" title="npm" /></span>
     <span><img src="https://skillicons.dev/icons?i=vite"  alt="Vite" title="Vite" /></span>
     <span><img src="https://skillicons.dev/icons?i=mysql"  alt="MySQL" title="MySQL" /></span>
     <span><img src="https://skillicons.dev/icons?i=mongodb"  alt="MongoDB" title="MongoDB" /></span>
     <span><img src="https://skillicons.dev/icons?i=grafana"  alt="Grafana" title="Grafana" /></span>
     <span><img src="https://skillicons.dev/icons?i=figma"  alt="Figma" title="Figma" /></span>
-    <span><img src="https://skillicons.dev/icons?i=photoshop"  alt="Photoshop" title="Photoshop" /></span>
     <span><img src="https://skillicons.dev/icons?i=linux"  alt="Linux" title="Linux" /></span>
     <span><img src="https://skillicons.dev/icons?i=bash"  alt="Bash" title="Bash" /></span>
     <span><img src="https://skillicons.dev/icons?i=powershell"  alt="Powershell" title="Powershell" /></span>
