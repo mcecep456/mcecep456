@@ -25,10 +25,13 @@ Berbekal pengalaman komprehensif dalam pengembangan web , saya seorang insinyur 
 ##### Front-end:
 <p align="left">
     <span><img src="https://skillicons.dev/icons?i=html" alt="HTML5" title="HTML5"/></span>
+    <span><img src="https://skillicons.dev/icons?i=css" alt="CSS3" title="CSS3"/></span>
     <span><img src="https://skillicons.dev/icons?i=js" alt="JavaScript" title="JavaScript"/></span>
-    <span><img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" title="TypeScript"/></span>
     <span><img src="https://skillicons.dev/icons?i=jquery" alt="JQuery" title="JQuery" /></span>
     <span><img src="https://skillicons.dev/icons?i=vue" alt="Vue" title="Vue" /></span>
+    <span><img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" title="Bootstrap"/></span>
+    <span><img src="https://skillicons.dev/icons?i=tailwind" alt="TailwindCSS" title="TailwindCSS"/><span>  
+    <span><img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" title="TypeScript"/></span>
 </p>
 
 
@@ -41,42 +44,32 @@ Berbekal pengalaman komprehensif dalam pengembangan web , saya seorang insinyur 
 </p>
 
 
-##### Style:    
-<p align="left">
-    <span><img src="https://skillicons.dev/icons?i=css" alt="CSS3" title="CSS3"/></span>
-    <span><img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" title="Bootstrap"/></span>
-    <span><img src="https://skillicons.dev/icons?i=tailwind" alt="TailwindCSS" title="TailwindCSS"/><span>  
-</p>
-
 ##### Databases:    
 <p align="left">
     <span><img src="https://skillicons.dev/icons?i=mysql"  alt="MySQL" title="MySQL" /></span>
     <span><img src="https://skillicons.dev/icons?i=mongodb"  alt="MongoDB" title="MongoDB" /></span>
 </p>
 
-##### Others:    
-<p align="left">
-    <span><img src="https://skillicons.dev/icons?i=npm"  alt="npm" title="npm" /></span>
-    <span><img src="https://skillicons.dev/icons?i=vite"  alt="Vite" title="Vite" /></span>
-</p>
-
-##### IDEs:    
-<p align="left">
-    <span><img src="https://skillicons.dev/icons?i=vscode"  alt="VS Code" title="VS Code" /></span>
-    <span><img src="https://skillicons.dev/icons?i=sublime"  alt="Sublime" title="Sublime" /></span>
-</p>
 
 ##### Tools:
 <p align="left" class="icon-badges">
+    <span><img src="https://skillicons.dev/icons?i=vscode"  alt="VS Code" title="VS Code" /></span>
+    <span><img src="https://skillicons.dev/icons?i=sublime"  alt="Sublime" title="Sublime" /></span>
+    <span><img src="https://skillicons.dev/icons?i=npm"  alt="npm" title="npm" /></span>
+    <span><img src="https://skillicons.dev/icons?i=vite"  alt="Vite" title="Vite" /></span>
     <span><img src="https://skillicons.dev/icons?i=git"  alt="Git" title="Git" /></span>
     <span><img src="https://skillicons.dev/icons?i=docker"  alt="Docker" title="Docker" /></span>
     <span><img src="https://skillicons.dev/icons?i=nginx"  alt="Nginx" title="Nginx" /></span>
     <span><img src="https://skillicons.dev/icons?i=figma"  alt="Figma" title="Figma" /></span>
+    <span><img src="https://skillicons.dev/icons?i=postman"  alt="Postman" title="Postman" /></span>
     <span><img src="https://skillicons.dev/icons?i=linux"  alt="Linux" title="Linux" /></span>
     <span><img src="https://skillicons.dev/icons?i=bash"  alt="Bash" title="Bash" /></span>
     <span><img src="https://skillicons.dev/icons?i=powershell"  alt="Powershell" title="Powershell" /><span>
+</p>
+
+##### Others:    
+<p align="left">
     <span><img src="https://skillicons.dev/icons?i=notion"  alt="Notion" title="Notion" /></span>
-    <span><img src="https://skillicons.dev/icons?i=postman"  alt="Postman" title="Postman" /></span>
     <span><img src="https://skillicons.dev/icons?i=discord"  alt="Discord" title="Discord" /></span>
 </p>
 
