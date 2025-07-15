@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="img/github-header-image.png" alt="Header Image" width="100%"/>
+    <!-- <img src="img/github-header-image.png" alt="Header Image" width="100%"/> -->
 </div>
 <h3 align="center">slow bro! we are the heroes in our own stories!</h3>
 
