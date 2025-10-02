@@ -86,7 +86,6 @@ Berbekal pengalaman komprehensif dalam pengembangan web , saya seorang insinyur 
     </div>
     <div align="center">
         <!-- <img src="https://raw.githubusercontent.com/mcecep456/mcecep456/output/snake.svg" alt="Snake animation" /> -->
-        <!-- <img src="https://raw.githubusercontent.com/mcecep456/mcecep456/output/snake.svg" alt="Snake animation" /> -->
 
         
     </div>
