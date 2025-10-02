@@ -84,9 +84,8 @@ Berbekal pengalaman komprehensif dalam pengembangan web , saya seorang insinyur 
         <img src="https://github-readme-stats.vercel.app/api?username=mcecep456&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&locale=en&border_color=04011e&order=1&hide_border=true&bg_color=#0a0a0a&text_color=f1f4f4&icon_color=14E3EB" width="49%" height="150" alt="stats graph" />
         <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mcecep456&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=algolia&hide_border=true&order=2&disable_animations=false&bg_color=#0a0a0a&title_color=14E3EB&text_color=f1f4f4" width="49%" height="150" alt="languages graph" />
     </div>
-    <div align="center">
+    <!-- <div align="center">
         <img src="https://raw.githubusercontent.com/mcecep456/mcecep456/output/snake.svg" alt="Snake animation" />
 
         
-    </div>
-</div>
+    </div> -->
