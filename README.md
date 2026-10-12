@@ -1,79 +1,41 @@
-<div align="center">
-    <!-- Kamu bisa menggunakan banner image di sini jika ada -->
-    <!-- <img src="img/github-header-image.png" alt="Header Image" width="100%"/> -->
-    
-    <h1>Hi there, I'm Cecep Maulana 👋</h1>
-    <h3>Full-Stack Software Engineer | Web & IoT Enthusiast</h3>
-    <p><i>"Crafting robust solutions through clean code and modern architecture."</i></p>
+<h1 align="center">Hi, I'm Cecep Maulana 👋</h1>
+<h4 align="center">Full-Stack Software Engineer | Web Development & Data Processing</h4>
 
-    <a href="https://www.linkedin.com/in/cecep-maulana-a236001a4/" target="_blank" rel="noreferrer">
-        <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedIn Profile" />
-    </a>
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/cecep-maulana-a236001a4/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
 
 ---
 
 ### 🧑🏻‍💻 About Me
 
-Berbekal pengalaman komprehensif dalam rekayasa perangkat lunak, saya berdedikasi untuk menciptakan aplikasi yang skalabel dan efisien. Fokus saya ada pada pengembangan web <i>end-to-end</i> dan pengolahan data, dengan standar tinggi pada penulisan kode yang bersih.
+Saya adalah seorang *software engineer* yang berfokus pada pengembangan aplikasi web dan sistem pengolahan data. Saya mengutamakan penulisan kode yang bersih (*clean code*) dan skalabilitas aplikasi, terutama di dalam ekosistem PHP dan JavaScript.
 
-- 🚀 Saat ini berfokus pada **Web Development** dan **Pengolahan Data**.
-- 💡 Berpengalaman membangun arsitektur aplikasi menggunakan ekosistem **Laravel** (termasuk Lumen) dan **Vue.js** (berkolaborasi dengan Vite / Laravel Mix).
-- ⚙️ Memiliki ketertarikan dan pengalaman dalam mengembangkan integrasi **Sistem IoT**.
-- 🌱 Terus bereksplorasi dengan standar industri terkini dan optimasi performa *database*.
-- 📫 Hubungi saya melalui LinkedIn untuk kolaborasi atau diskusi teknologi!
+- 🚀 Sehari-hari bekerja menggunakan **Laravel**, **Vue.js**, dan **Vite / Laravel Mix**.
+- ⚙️ Memiliki ketertarikan dan pengalaman dalam integrasi **Sistem IoT**.
+- 📫 Selalu terbuka untuk diskusi tentang teknologi, arsitektur *software*, atau kolaborasi. 
+
+### 🛠️ Tech Stack
+
+<p align="left">
+  <b>Languages & Frameworks</b><br>
+  <img src="https://skillicons.dev/icons?i=php,laravel,js,ts,vue,nodejs,py" /><br><br>
+  <b>Databases & Infrastructure</b><br>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,docker,nginx,linux" /><br><br>
+  <b>Tools</b><br>
+  <img src="https://skillicons.dev/icons?i=git,vscode,vite,npm,bash,postman,figma" />
+</p>
 
 ---
 
-### ⚔️ Tech Stack
+### 📊 Analytics
 
-<details open>
-<summary><b>Front-end Development</b></summary>
-<br>
-<p align="left">
-    <img src="https://skillicons.dev/icons?i=html,css,js,jquery,vue,bootstrap,tailwind,ts" alt="Frontend Stack" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mcecep456&show_icons=true&hide_border=true&bg_color=0a0a0a&text_color=f1f4f4&icon_color=14E3EB&title_color=14E3EB" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mcecep456&layout=compact&hide_border=true&bg_color=0a0a0a&text_color=f1f4f4&title_color=14E3EB" width="48%" alt="Top Languages" />
 </p>
-</details>
-
-<details open>
-<summary><b>Back-end Development</b></summary>
-<br>
-<p align="left">
-    <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express,py" alt="Backend Stack" />
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=mcecep456&hide_border=true&background=0a0a0a&currStreakNum=14E3EB&sideNums=EB941F&currStreakLabel=14E3EB&sideLabels=14E3EB&dates=0a0a0a" width="97%" alt="GitHub Streak" />
 </p>
-</details>
-
-<details open>
-<summary><b>Databases</b></summary>
-<br>
-<p align="left">
-    <img src="https://skillicons.dev/icons?i=mysql,mongodb" alt="Database Stack" />
-</p>
-</details>
-
-<details open>
-<summary><b>Tools & Infrastructure</b></summary>
-<br>
-<p align="left">
-    <img src="https://skillicons.dev/icons?i=vscode,sublime,npm,vite,git,docker,nginx,linux,bash,powershell,postman,figma" alt="Tools Stack" />
-</p>
-</details>
-
----
-
-### 📊 GitHub Analytics
-
-<div align="center">
-    <img src="https://streak-stats.demolab.com?user=mcecep456&hide_border=true&border_radius=0&mode=weekly&background=04011e00&currStreakNum=14E3EB&sideNums=EB941F&currStreakLabel=14E3EB&sideLabels=14E3EB&dates=#0a0a0a" height="200" alt="Streak Graph" />
-</div>
-<br>
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=mcecep456&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&locale=en&border_color=04011e&order=1&hide_border=true&bg_color=#0a0a0a&text_color=f1f4f4&icon_color=14E3EB" width="48%" alt="Stats Graph" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mcecep456&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=algolia&hide_border=true&order=2&disable_animations=false&bg_color=#0a0a0a&title_color=14E3EB&text_color=f1f4f4" width="48%" alt="Languages Graph" />
-</div>
-
-<!-- 
-<div align="center">
-    <img src="https://raw.githubusercontent.com/mcecep456/mcecep456/output/snake.svg" alt="Snake animation" width="100%" />
-</div> 
--->
