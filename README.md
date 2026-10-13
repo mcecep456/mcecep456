@@ -23,7 +23,7 @@ Saya adalah seorang *software engineer* yang berfokus pada pengembangan aplikasi
   <b>Languages & Frameworks</b><br>
   <img src="https://skillicons.dev/icons?i=php,laravel,js,ts,vue,nodejs,py" /><br><br>
   <b>Databases & Infrastructure</b><br>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,docker,nginx,linux" /><br><br>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,docker,nginx,linux,postgres,ubuntu" /><br><br>
   <b>Tools</b><br>
   <img src="https://skillicons.dev/icons?i=git,vscode,vite,npm,bash,postman,figma" />
 </p>
