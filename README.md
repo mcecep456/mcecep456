@@ -28,6 +28,7 @@ Saya adalah seorang *software engineer* yang berfokus pada pengembangan aplikasi
   <img src="https://skillicons.dev/icons?i=git,vscode,vite,npm,bash,postman,figma" />
 </p>
 
+
 ---
 
 <!-- ### 📊 Analytics -->
