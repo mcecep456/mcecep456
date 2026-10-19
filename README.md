@@ -15,7 +15,8 @@ Saya adalah seorang *software engineer* yang berfokus pada pengembangan aplikasi
 
 - 🚀 Sehari-hari bekerja menggunakan **Laravel**, **Vue.js**, dan **Vite / Laravel Mix**.
 - ⚙️ Memiliki ketertarikan dan pengalaman dalam integrasi **Sistem IoT**.
-- 📫 Selalu terbuka untuk diskusi tentang teknologi, arsitektur *software*, atau kolaborasi. 
+- 📫 Selalu terbuka untuk diskusi tentang teknologi, arsitektur *software*, atau kolaborasi.
+- 🌾 Bertani adalah hoby dan warisan 
 
 ### 🛠️ Tech Stack
 
