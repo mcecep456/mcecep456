@@ -17,6 +17,7 @@ Saya adalah seorang *software engineer* yang berfokus pada pengembangan aplikasi
 - ⚙️ Memiliki ketertarikan dan pengalaman dalam integrasi **Sistem IoT**.
 - 📫 Selalu terbuka untuk diskusi tentang teknologi, arsitektur *software*, atau kolaborasi.
 - 🌾 Bertani adalah hobi dan warisan sebagai jalan **ninjaku**.
+- 💪 Kesehatan dan ketenangan jiwa adalah bagian dari **agendaku**.
 
 ### 🛠️ Tech Stack
 
